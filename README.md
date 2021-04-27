@@ -1,4 +1,7 @@
-## Bluetooth File Transfor
+
+Bluetooth File Transfer
+=======================
+
 
 Receiver written with Python(Only run with Python from 3.9)
 
